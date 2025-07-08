@@ -1,0 +1,840 @@
+
+========= kernel 25 =========
+total_sm_cycles:1072813
+total_thread_inst:10003093
+total_thread_ldst_inst:1000393
+total_warp_inst:346166
+total_ldst_warp_inst:31894
+========= L1 Cache stats =========
+tota_l1_access:125355
+total_l1_hit:183
+l1_rd_sector:125317
+l1_rd_hit:183
+l1_rd_miss:125134
+l1_wr_sector:38
+l1_wr_hit:0
+l1_wr_miss:38
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.001460
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:132868
+total_l2_hit:92
+l2_rd_sector:132830
+l2_rd_hit:55
+l2_wr_sector:38
+l2_wr_hit:37
+l2 hit rate: 0.000692
+========= Request stats =========
+total_time 7128923 us
+
+========= kernel 18 =========
+total_sm_cycles:1395519
+total_thread_inst:10051154
+total_thread_ldst_inst:1021117
+total_warp_inst:393127
+total_ldst_warp_inst:47697
+========= L1 Cache stats =========
+tota_l1_access:143054
+total_l1_hit:5316
+l1_rd_sector:137738
+l1_rd_hit:0
+l1_rd_miss:137738
+l1_wr_sector:5316
+l1_wr_hit:5316
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.037161
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:146633
+total_l2_hit:5316
+l2_rd_sector:141317
+l2_rd_hit:0
+l2_wr_sector:5316
+l2_wr_hit:5316
+l2 hit rate: 0.036254
+========= Request stats =========
+total_time 8102624 us
+
+========= kernel 28 =========
+total_sm_cycles:1060104
+total_thread_inst:10001187
+total_thread_ldst_inst:1000015
+total_warp_inst:343831
+total_ldst_warp_inst:31265
+========= L1 Cache stats =========
+tota_l1_access:125015
+total_l1_hit:5
+l1_rd_sector:125010
+l1_rd_hit:0
+l1_rd_miss:125010
+l1_wr_sector:5
+l1_wr_hit:5
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.000040
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:133355
+total_l2_hit:5
+l2_rd_sector:133350
+l2_rd_hit:0
+l2_wr_sector:5
+l2_wr_hit:5
+l2 hit rate: 0.000037
+========= Request stats =========
+total_time 8571757 us
+
+========= kernel 22 =========
+total_sm_cycles:1095825
+total_thread_inst:10004822
+total_thread_ldst_inst:1001553
+total_warp_inst:347815
+total_ldst_warp_inst:32593
+========= L1 Cache stats =========
+tota_l1_access:126369
+total_l1_hit:413
+l1_rd_sector:125956
+l1_rd_hit:0
+l1_rd_miss:125956
+l1_wr_sector:413
+l1_wr_hit:413
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.003268
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:130926
+total_l2_hit:413
+l2_rd_sector:130513
+l2_rd_hit:0
+l2_wr_sector:413
+l2_wr_hit:413
+l2 hit rate: 0.003154
+========= Request stats =========
+total_time 8538507 us
+
+========= kernel 20 =========
+total_sm_cycles:1196186
+total_thread_inst:10015333
+total_thread_ldst_inst:1005997
+total_warp_inst:358912
+total_ldst_warp_inst:36292
+========= L1 Cache stats =========
+tota_l1_access:130245
+total_l1_hit:1557
+l1_rd_sector:128688
+l1_rd_hit:0
+l1_rd_miss:128688
+l1_wr_sector:1557
+l1_wr_hit:1557
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.011954
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:133820
+total_l2_hit:1557
+l2_rd_sector:132263
+l2_rd_hit:0
+l2_wr_sector:1557
+l2_wr_hit:1557
+l2 hit rate: 0.011635
+========= Request stats =========
+total_time 8341047 us
+
+========= kernel 24 =========
+total_sm_cycles:1069758
+total_thread_inst:10002059
+total_thread_ldst_inst:1000384
+total_warp_inst:344806
+total_ldst_warp_inst:31590
+========= L1 Cache stats =========
+tota_l1_access:125342
+total_l1_hit:104
+l1_rd_sector:125238
+l1_rd_hit:0
+l1_rd_miss:125238
+l1_wr_sector:104
+l1_wr_hit:104
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.000830
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:131312
+total_l2_hit:104
+l2_rd_sector:131208
+l2_rd_hit:0
+l2_wr_sector:104
+l2_wr_hit:104
+l2 hit rate: 0.000792
+========= Request stats =========
+total_time 9451409 us
+
+========= kernel 23 =========
+total_sm_cycles:1144215
+total_thread_inst:10009507
+total_thread_ldst_inst:1001745
+total_warp_inst:353816
+total_ldst_warp_inst:33964
+========= L1 Cache stats =========
+tota_l1_access:126552
+total_l1_hit:761
+l1_rd_sector:126369
+l1_rd_hit:761
+l1_rd_miss:125608
+l1_wr_sector:183
+l1_wr_hit:0
+l1_wr_miss:183
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.006013
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:130791
+total_l2_hit:427
+l2_rd_sector:130608
+l2_rd_hit:248
+l2_wr_sector:183
+l2_wr_hit:179
+l2 hit rate: 0.003265
+========= Request stats =========
+total_time 8769986 us
+
+========= kernel 26 =========
+total_sm_cycles:1062324
+total_thread_inst:10001373
+total_thread_ldst_inst:1000094
+total_warp_inst:344032
+total_ldst_warp_inst:31332
+========= L1 Cache stats =========
+tota_l1_access:125082
+total_l1_hit:26
+l1_rd_sector:125056
+l1_rd_hit:0
+l1_rd_miss:125056
+l1_wr_sector:26
+l1_wr_hit:26
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.000208
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:132893
+total_l2_hit:26
+l2_rd_sector:132867
+l2_rd_hit:0
+l2_wr_sector:26
+l2_wr_hit:26
+l2 hit rate: 0.000196
+========= Request stats =========
+total_time 9361563 us
+
+========= kernel 21 =========
+total_sm_cycles:1354465
+total_thread_inst:10035076
+total_thread_ldst_inst:1007082
+total_warp_inst:383493
+total_ldst_warp_inst:41981
+========= L1 Cache stats =========
+tota_l1_access:131253
+total_l1_hit:3081
+l1_rd_sector:130517
+l1_rd_hit:3081
+l1_rd_miss:127436
+l1_wr_sector:736
+l1_wr_hit:0
+l1_wr_miss:736
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.023474
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:131792
+total_l2_hit:1712
+l2_rd_sector:131056
+l2_rd_hit:985
+l2_wr_sector:736
+l2_wr_hit:727
+l2 hit rate: 0.012990
+========= Request stats =========
+total_time 8478170 us
+
+========= kernel 27 =========
+total_sm_cycles:1056555
+total_thread_inst:10001437
+total_thread_ldst_inst:1000055
+total_warp_inst:344211
+total_ldst_warp_inst:31365
+========= L1 Cache stats =========
+tota_l1_access:125055
+total_l1_hit:28
+l1_rd_sector:125050
+l1_rd_hit:28
+l1_rd_miss:125022
+l1_wr_sector:5
+l1_wr_hit:0
+l1_wr_miss:5
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.000224
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:133268
+total_l2_hit:15
+l2_rd_sector:133263
+l2_rd_hit:10
+l2_wr_sector:5
+l2_wr_hit:5
+l2 hit rate: 0.000113
+========= Request stats =========
+total_time 9347025 us
+
+========= kernel 19 =========
+total_sm_cycles:1940738
+total_thread_inst:10133041
+total_thread_ldst_inst:1027639
+total_warp_inst:493878
+total_ldst_warp_inst:71832
+========= L1 Cache stats =========
+tota_l1_access:149423
+total_l1_hit:12035
+l1_rd_sector:146513
+l1_rd_hit:12035
+l1_rd_miss:134478
+l1_wr_sector:2910
+l1_wr_hit:0
+l1_wr_miss:2910
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.080543
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:141008
+total_l2_hit:6670
+l2_rd_sector:138098
+l2_rd_hit:3830
+l2_wr_sector:2910
+l2_wr_hit:2840
+l2 hit rate: 0.047302
+========= Request stats =========
+total_time 9267408 us
+
+========= kernel 16 =========
+total_sm_cycles:1517758
+total_thread_inst:10152685
+total_thread_ldst_inst:1063833
+total_warp_inst:468208
+total_ldst_warp_inst:72724
+========= L1 Cache stats =========
+tota_l1_access:177108
+total_l1_hit:15006
+l1_rd_sector:162102
+l1_rd_hit:0
+l1_rd_miss:162102
+l1_wr_sector:15006
+l1_wr_hit:15006
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.084728
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:181928
+total_l2_hit:15006
+l2_rd_sector:166922
+l2_rd_hit:0
+l2_wr_sector:15006
+l2_wr_hit:15006
+l2 hit rate: 0.082483
+========= Request stats =========
+total_time 11012737 us
+
+========= kernel 14 =========
+total_sm_cycles:1556963
+total_thread_inst:10388762
+total_thread_ldst_inst:1162709
+total_warp_inst:562429
+total_ldst_warp_inst:104131
+========= L1 Cache stats =========
+tota_l1_access:245404
+total_l1_hit:33826
+l1_rd_sector:211578
+l1_rd_hit:0
+l1_rd_miss:211578
+l1_wr_sector:33826
+l1_wr_hit:33826
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.137838
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:253437
+total_l2_hit:33826
+l2_rd_sector:219611
+l2_rd_hit:0
+l2_wr_sector:33826
+l2_wr_hit:33826
+l2 hit rate: 0.133469
+========= Request stats =========
+total_time 12591127 us
+
+========= kernel 12 =========
+total_sm_cycles:1605443
+total_thread_inst:10853548
+total_thread_ldst_inst:1356428
+total_warp_inst:615397
+total_ldst_warp_inst:121787
+========= L1 Cache stats =========
+tota_l1_access:346789
+total_l1_hit:61989
+l1_rd_sector:284800
+l1_rd_hit:0
+l1_rd_miss:284800
+l1_wr_sector:61989
+l1_wr_hit:61989
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.178751
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:461887
+total_l2_hit:61989
+l2_rd_sector:399898
+l2_rd_hit:0
+l2_wr_sector:61989
+l2_wr_hit:61989
+l2 hit rate: 0.134208
+========= Request stats =========
+total_time 15102638 us
+
+========= kernel 17 =========
+total_sm_cycles:3014747
+total_thread_inst:10472192
+total_thread_ldst_inst:1099492
+total_warp_inst:833225
+total_ldst_warp_inst:163600
+========= L1 Cache stats =========
+tota_l1_access:211340
+total_l1_hit:42503
+l1_rd_sector:200871
+l1_rd_hit:42503
+l1_rd_miss:158368
+l1_wr_sector:10469
+l1_wr_hit:0
+l1_wr_miss:10469
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.201112
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:172457
+total_l2_hit:22535
+l2_rd_sector:161988
+l2_rd_hit:13450
+l2_wr_sector:10469
+l2_wr_hit:9085
+l2 hit rate: 0.130670
+========= Request stats =========
+total_time 14392611 us
+
+========= kernel 10 =========
+total_sm_cycles:1775943
+total_thread_inst:11540343
+total_thread_ldst_inst:1639719
+total_warp_inst:624208
+total_ldst_warp_inst:124724
+========= L1 Cache stats =========
+tota_l1_access:431595
+total_l1_hit:85831
+l1_rd_sector:345764
+l1_rd_hit:0
+l1_rd_miss:345764
+l1_wr_sector:85831
+l1_wr_hit:85831
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.198869
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:741983
+total_l2_hit:85831
+l2_rd_sector:656152
+l2_rd_hit:0
+l2_wr_sector:85831
+l2_wr_hit:85831
+l2 hit rate: 0.115678
+========= Request stats =========
+total_time 20493205 us
+
+========= kernel 6 =========
+total_sm_cycles:1870943
+total_thread_inst:13331821
+total_thread_ldst_inst:2366999
+total_warp_inst:625015
+total_ldst_warp_inst:124993
+========= L1 Cache stats =========
+tota_l1_access:480603
+total_l1_hit:105647
+l1_rd_sector:374956
+l1_rd_hit:0
+l1_rd_miss:374956
+l1_wr_sector:105647
+l1_wr_hit:105647
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.219822
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:849077
+total_l2_hit:105647
+l2_rd_sector:743430
+l2_rd_hit:0
+l2_wr_sector:105647
+l2_wr_hit:105647
+l2 hit rate: 0.124426
+========= Request stats =========
+total_time 21196856 us
+
+========= kernel 8 =========
+total_sm_cycles:1865081
+total_thread_inst:12442744
+total_thread_ldst_inst:2009289
+total_warp_inst:624913
+total_ldst_warp_inst:124959
+========= L1 Cache stats =========
+tota_l1_access:473754
+total_l1_hit:102048
+l1_rd_sector:371706
+l1_rd_hit:0
+l1_rd_miss:371706
+l1_wr_sector:102048
+l1_wr_hit:102048
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.215403
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:828952
+total_l2_hit:102048
+l2_rd_sector:726904
+l2_rd_hit:0
+l2_wr_sector:102048
+l2_wr_hit:102048
+l2 hit rate: 0.123105
+========= Request stats =========
+total_time 21841682 us
+
+========= kernel 4 =========
+total_sm_cycles:1873816
+total_thread_inst:14405591
+total_thread_ldst_inst:2802378
+total_warp_inst:625024
+total_ldst_warp_inst:124996
+========= L1 Cache stats =========
+tota_l1_access:487117
+total_l1_hit:112117
+l1_rd_sector:375000
+l1_rd_hit:0
+l1_rd_miss:375000
+l1_wr_sector:112117
+l1_wr_hit:112117
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.230164
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:847208
+total_l2_hit:112117
+l2_rd_sector:735091
+l2_rd_hit:0
+l2_wr_sector:112117
+l2_wr_hit:112117
+l2 hit rate: 0.132337
+========= Request stats =========
+total_time 21972770 us
+
+========= kernel 2 =========
+total_sm_cycles:1874938
+total_thread_inst:15401786
+total_thread_ldst_inst:3200317
+total_warp_inst:625030
+total_ldst_warp_inst:124998
+========= L1 Cache stats =========
+tota_l1_access:487704
+total_l1_hit:112704
+l1_rd_sector:375000
+l1_rd_hit:0
+l1_rd_miss:375000
+l1_wr_sector:112704
+l1_wr_hit:112704
+l1_wr_miss:0
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.231091
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:846291
+total_l2_hit:112704
+l2_rd_sector:733587
+l2_rd_hit:0
+l2_wr_sector:112704
+l2_wr_hit:112704
+l2 hit rate: 0.133174
+========= Request stats =========
+total_time 22385475 us
+
+========= kernel 15 =========
+total_sm_cycles:3723222
+total_thread_inst:11463641
+total_thread_ldst_inst:1313349
+total_warp_inst:1577664
+total_ldst_warp_inst:364950
+========= L1 Cache stats =========
+tota_l1_access:387473
+total_l1_hit:129920
+l1_rd_sector:354930
+l1_rd_hit:129920
+l1_rd_miss:225010
+l1_wr_sector:32543
+l1_wr_hit:0
+l1_wr_miss:32543
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.335301
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:261173
+total_l2_hit:62437
+l2_rd_sector:228630
+l2_rd_hit:39997
+l2_wr_sector:32543
+l2_wr_hit:22440
+l2 hit rate: 0.239064
+========= Request stats =========
+total_time 22188589 us
+
+========= kernel 13 =========
+total_sm_cycles:4141253
+total_thread_inst:13866534
+total_thread_ldst_inst:1843644
+total_warp_inst:2496069
+total_ldst_warp_inst:613246
+========= L1 Cache stats =========
+tota_l1_access:786229
+total_l1_hit:333850
+l1_rd_sector:704368
+l1_rd_hit:333850
+l1_rd_miss:370518
+l1_wr_sector:81861
+l1_wr_hit:0
+l1_wr_miss:81861
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.424622
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:456017
+total_l2_hit:145353
+l2_rd_sector:374156
+l2_rd_hit:96074
+l2_wr_sector:81861
+l2_wr_hit:49279
+l2 hit rate: 0.318745
+========= Request stats =========
+total_time 36445645 us
+
+========= kernel 11 =========
+total_sm_cycles:7481677
+total_thread_inst:18830142
+total_thread_ldst_inst:2970632
+total_warp_inst:2959529
+total_ldst_warp_inst:738278
+========= L1 Cache stats =========
+tota_l1_access:1506510
+total_l1_hit:723875
+l1_rd_sector:1347243
+l1_rd_hit:723875
+l1_rd_miss:623368
+l1_wr_sector:159267
+l1_wr_hit:0
+l1_wr_miss:159267
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.480498
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:786611
+total_l2_hit:284735
+l2_rd_sector:627344
+l2_rd_hit:193360
+l2_wr_sector:159267
+l2_wr_hit:91375
+l2 hit rate: 0.361977
+========= Request stats =========
+total_time 62165118 us
+
+========= kernel 9 =========
+total_sm_cycles:10684133
+total_thread_inst:26915693
+total_thread_ldst_inst:4907181
+total_warp_inst:3020847
+total_ldst_warp_inst:754465
+========= L1 Cache stats =========
+tota_l1_access:2451001
+total_l1_hit:1293106
+l1_rd_sector:2226095
+l1_rd_hit:1293106
+l1_rd_miss:932989
+l1_wr_sector:224906
+l1_wr_hit:0
+l1_wr_miss:224906
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.527583
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:1163453
+total_l2_hit:446832
+l2_rd_sector:938547
+l2_rd_hit:319177
+l2_wr_sector:224906
+l2_wr_hit:127655
+l2 hit rate: 0.384057
+========= Request stats =========
+total_time 84975693 us
+
+========= kernel 7 =========
+total_sm_cycles:12167387
+total_thread_inst:38535030
+total_thread_ldst_inst:7856154
+total_warp_inst:3035288
+total_ldst_warp_inst:757865
+========= L1 Cache stats =========
+tota_l1_access:3497235
+total_l1_hit:2043448
+l1_rd_sector:3248891
+l1_rd_hit:2043448
+l1_rd_miss:1205443
+l1_wr_sector:248344
+l1_wr_hit:0
+l1_wr_miss:248344
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.584304
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:1483081
+total_l2_hit:576582
+l2_rd_sector:1234737
+l2_rd_hit:437791
+l2_wr_sector:248344
+l2_wr_hit:138791
+l2 hit rate: 0.388773
+========= Request stats =========
+total_time 99425639 us
+
+========= kernel 5 =========
+total_sm_cycles:12694718
+total_thread_inst:52356091
+total_thread_ldst_inst:11722753
+total_warp_inst:3050712
+total_ldst_warp_inst:761480
+========= L1 Cache stats =========
+tota_l1_access:4478641
+total_l1_hit:2864980
+l1_rd_sector:4227381
+l1_rd_hit:2864980
+l1_rd_miss:1362401
+l1_wr_sector:251260
+l1_wr_hit:0
+l1_wr_miss:251260
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.639699
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:1653983
+total_l2_hit:654877
+l2_rd_sector:1402723
+l2_rd_hit:514523
+l2_wr_sector:251260
+l2_wr_hit:140354
+l2 hit rate: 0.395939
+========= Request stats =========
+total_time 108258295 us
+
+========= kernel 3 =========
+total_sm_cycles:13010501
+total_thread_inst:69988025
+total_thread_ldst_inst:16978025
+total_warp_inst:3068312
+total_ldst_warp_inst:765605
+========= L1 Cache stats =========
+tota_l1_access:5458058
+total_l1_hit:3792628
+l1_rd_sector:5205662
+l1_rd_hit:3792628
+l1_rd_miss:1413034
+l1_wr_sector:252396
+l1_wr_hit:0
+l1_wr_miss:252396
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.694868
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:1712683
+total_l2_hit:680115
+l2_rd_sector:1460287
+l2_rd_hit:538535
+l2_wr_sector:252396
+l2_wr_hit:141580
+l2 hit rate: 0.397105
+========= Request stats =========
+total_time 113529455 us
+
+========= kernel 1 =========
+total_sm_cycles:13190862
+total_thread_inst:91025047
+total_thread_ldst_inst:23979999
+total_warp_inst:3080284
+total_ldst_warp_inst:768410
+========= L1 Cache stats =========
+tota_l1_access:5920391
+total_l1_hit:4246056
+l1_rd_sector:5666709
+l1_rd_hit:4246056
+l1_rd_miss:1420653
+l1_wr_sector:253682
+l1_wr_hit:0
+l1_wr_miss:253682
+other_rd_hit:0
+other_wr_hit:0
+l1 hit rate: 0.717192
+inter-core locality: 0.000000
+========= L2 Cache stats =========
+total_l2_access:1721533
+total_l2_hit:689112
+l2_rd_sector:1467851
+l2_rd_hit:546149
+l2_wr_sector:253682
+l2_wr_hit:142963
+l2 hit rate: 0.400290
+========= Request stats =========
+total_time 113969151 us

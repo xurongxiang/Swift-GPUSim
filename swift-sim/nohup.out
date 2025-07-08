@@ -1,0 +1,193 @@
+ERROR: mem trace missing 
+gpu_sim_cycle:1530
+========= kernel 4 =========
+total_sm_cycles:21866
+total_sm_inst:1512
+total_time 138904 us
+gpu_sim_cycle:816
+========= kernel 3 =========
+total_sm_cycles:104096
+total_sm_inst:12544
+total_time 458702 us
+gpu_sim_cycle:1574
+========= kernel 5 =========
+total_sm_cycles:156305
+total_sm_inst:50304
+total_time 1055283 us
+gpu_sim_cycle:1067
+========= kernel 7 =========
+total_sm_cycles:159481
+total_sm_inst:43200
+total_time 1803013 us
+gpu_sim_cycle:1911
+========= kernel 6 =========
+total_sm_cycles:197050
+total_sm_inst:30240
+total_time 1888176 us
+gpu_sim_cycle:43165
+========= kernel 2 =========
+total_sm_cycles:2820160
+total_sm_inst:2535552
+total_time 17105509 us
+gpu_sim_cycle:29697
+========= kernel 9 =========
+total_sm_cycles:1927997
+total_sm_inst:3477960
+total_time 34359086 us
+gpu_sim_cycle:29697
+========= kernel 8 =========
+total_sm_cycles:1927997
+total_sm_inst:3477960
+total_time 36484904 us
+gpu_sim_cycle:987105
+========= kernel 1 =========
+total_sm_cycles:119590313
+total_sm_inst:71303168
+total_time 3428186293 us
+gpu_sim_cycle:608
+========= kernel 18 =========
+total_sm_cycles:12064
+total_sm_inst:1088
+total_time 16487 us
+gpu_sim_cycle:1536
+========= kernel 10 =========
+total_sm_cycles:19488
+total_sm_inst:1408
+total_time 54098 us
+gpu_sim_cycle:1300
+========= kernel 9 =========
+total_sm_cycles:138769
+total_sm_inst:10112
+total_time 252721 us
+gpu_sim_cycle:832
+========= kernel 13 =========
+total_sm_cycles:121833
+total_sm_inst:22032
+total_time 136191 us
+gpu_sim_cycle:1700
+========= kernel 11 =========
+total_sm_cycles:163952
+total_sm_inst:33280
+total_time 333016 us
+gpu_sim_cycle:1833
+========= kernel 12 =========
+total_sm_cycles:186060
+total_sm_inst:17248
+total_time 308610 us
+gpu_sim_cycle:1919
+========= kernel 16 =========
+total_sm_cycles:177905
+total_sm_inst:45696
+total_time 414043 us
+gpu_sim_cycle:2229
+========= kernel 17 =========
+total_sm_cycles:210457
+total_sm_inst:28512
+total_time 524979 us
+gpu_sim_cycle:35406
+========= kernel 3 =========
+total_sm_cycles:398514
+total_sm_inst:350284
+total_time 984537 us
+gpu_sim_cycle:35406
+========= kernel 1 =========
+total_sm_cycles:398514
+total_sm_inst:350284
+total_time 981069 us
+gpu_sim_cycle:35437
+========= kernel 15 =========
+total_sm_cycles:398764
+total_sm_inst:350284
+total_time 1006782 us
+gpu_sim_cycle:35437
+========= kernel 14 =========
+total_sm_cycles:398764
+total_sm_inst:350284
+total_time 1010914 us
+gpu_sim_cycle:35406
+========= kernel 2 =========
+total_sm_cycles:398514
+total_sm_inst:350284
+total_time 1122074 us
+gpu_sim_cycle:37506
+========= kernel 20 =========
+total_sm_cycles:2552966
+total_sm_inst:5300224
+total_time 20136828 us
+gpu_sim_cycle:37635
+========= kernel 4 =========
+total_sm_cycles:2552461
+total_sm_inst:5300224
+total_time 20353080 us
+gpu_sim_cycle:37506
+========= kernel 19 =========
+total_sm_cycles:2552966
+total_sm_inst:5300224
+total_time 20464197 us
+gpu_sim_cycle:111723
+========= kernel 6 =========
+total_sm_cycles:5067817
+total_sm_inst:3151680
+total_time 27500560 us
+gpu_sim_cycle:111723
+gpu_sim_cycle:111723
+========= kernel 5 =========
+total_sm_cycles:5067817
+total_sm_inst:3151680
+========= kernel 7 =========
+total_sm_cycles:5067817
+total_sm_inst:3151680
+total_time 28032918 us
+total_time 27968931 us
+gpu_sim_cycle:94833
+========= kernel 8 =========
+total_sm_cycles:6121998
+total_sm_inst:2535552
+total_time 26324654 us
+./run_all: line 1: ./2080_res_new/bp.txt: No such file or directory
+./run_all: line 2: ./2080_res_new/bfs.txt: No such file or directory
+./run_all: line 3: ./2080_res_new/dwt2d.txt: No such file or directory
+./run_all: line 4: ./2080_res_new/nw.txt: No such file or directory
+./run_all: line 5: ./2080_res_new/path.txt: No such file or directory
+./run_all: line 6: ./2080_res_new/srad.txt: No such file or directory
+./run_all: line 7: ./2080_res_new/doitgen.txt: No such file or directory
+./run_all: line 8: ./2080_res_new/lu.txt: No such file or directory
+./run_all: line 9: ./2080_res_new/adi.txt: No such file or directory
+./run_all: line 10: ./2080_res_new/j2D.txt: No such file or directory
+./run_all: line 11: ./2080_res_new/km.txt: No such file or directory
+./run_all: line 12: ./2080_res_new/wc.txt: No such file or directory
+./run_all: line 13: ./2080_res_new/pvr.txt: No such file or directory
+./run_all: line 14: ./2080_res_new/pvc.txt: No such file or directory
+./run_all: line 15: ./2080_res_new/CN.txt: No such file or directory
+./run_all: line 16: ./2080_res_new/GRU.txt: No such file or directory
+./run_all: line 17: ./2080_res_new/LSTM.txt: No such file or directory
+./run_all: line 18: ./2080_res_new/color.txt: No such file or directory
+./run_all: line 19: ./2080_res_new/mis.txt: No such file or directory
+./run_all: line 20: ./2080_res_new/conv_bench_train_7_7_64_16_64_1_1.txt: No such file or directory
+./run_all: line 21: ./2080_res_new/conv_inference_240_24_16.txt: No such file or directory
+./run_all: line 22: ./2080_res_new/gemm_inference_512_32_512.txt: No such file or directory
+./run_all: line 23: ./2080_res_new/gemm_train_4096_16_4096.txt: No such file or directory
+./run_all: line 24: ./2080_res_new/gru_512_32_1_train_flex.txt: No such file or directory
+./run_all: line 25: ./2080_res_new/lstm_512_32_25_train_flex.txt: No such file or directory
+./run_all: line 8: 231218 Killed                  ./flex-gpu-origin lu 0 50 > ./2080_res_new/lu.txt
+./run_all: line 23: 249312 Segmentation fault      (core dumped) ./flex-gpu-origin gemm_train_4096_16_4096 0 10 > ./2080_res_new/gemm_train_4096_16_4096.txt
+./run_all: line 7: 3109253 Killed                  ./flex-gpu-origin doitgen 0 50 > ./2080_analysis/doitgen.txt
+./run_all: line 8: 3110553 Killed                  ./flex-gpu-origin lu 0 50 > ./2080_analysis/lu.txt
+./run_all: line 9: 3110641 Killed                  ./flex-gpu-origin adi 0 50 > ./2080_analysis/adi.txt
+./run_all: line 10: 3110822 Killed                  ./flex-gpu-origin jacobi2D 0 40 > ./2080_analysis/j2D.txt
+./run_all: line 11: 3110908 Killed                  ./flex-gpu-origin km 0 50 > ./2080_analysis/km.txt
+./run_all: line 12: 3110996 Killed                  ./flex-gpu-origin wc 0 50 > ./2080_analysis/wc.txt
+./run_all: line 13: 3111063 Killed                  ./flex-gpu-origin pvr 0 50 > ./2080_analysis/pvr.txt
+./run_all: line 15: 3111355 Killed                  ./flex-gpu-origin CN 0 8 > ./2080_analysis/CN.txt
+./run_all: line 18: 3111528 Killed                  ./flex-gpu-origin color 0 28 > ./2080_analysis/color.txt
+./run_all: line 19: 3111739 Killed                  ./flex-gpu-origin mis 0 19 > ./2080_analysis/mis.txt
+./run_all: line 20: 3111788 Killed                  ./flex-gpu-origin conv_bench_train_7_7_64_16_64_1_1 0 23 > ./2080_analysis/conv_bench_train_7_7_64_16_64_1_1.txt
+./run_all: line 21: 3111849 Killed                  ./flex-gpu-origin conv_inference_240_24_16 0 9 > ./2080_analysis/conv_inference_240_24_16.txt
+./run_all: line 22: 3111911 Killed                  ./flex-gpu-origin gemm_inference_512_32_512 0 10 > ./2080_analysis/gemm_inference_512_32_512.txt
+./run_all: line 23: 3112006 Killed                  ./flex-gpu-origin gemm_train_4096_16_4096 0 10 > ./2080_analysis/gemm_train_4096_16_4096.txt
+./run_all: line 24: 3112045 Killed                  ./flex-gpu-origin gru_512_32_1_train_flex 0 44 > ./2080_analysis/gru_512_32_1_train_flex.txt
+./run_all: line 25: 3112114 Killed                  ./flex-gpu-origin lstm_512_32_25_train_flex 0 50 > ./2080_analysis/lstm_512_32_25_train_flex.txt
+./run_all: line 8: 3574174 Killed                  ./flex-gpu-origin lu 0 50 > ./3090_origin/lu.txt
+flex-gpu-origin: delayqueue.h:72: void fifo_pipeline<T>::push(T*) [with T = mem_fetch]: Assertion `m_length < m_max_len' failed.
+./run_all: line 11: 3577527 Aborted                 (core dumped) ./flex-gpu-origin km 0 50 > ./3090_origin/km.txt
+ERROR: missing parameter(s)
